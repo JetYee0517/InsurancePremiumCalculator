@@ -9,7 +9,7 @@
         <string name="reset">Reset</string>
     <string name="yes">Yes</string>
     <string name="age">Age</string>
-        <string name="insurance_premium">Insurance Premium :</string>
+        <string name="insurance_premium">Insurance Premium </string>
         <string-array name="age_groups">
             <item>Less than 17</item>
             <item>17 to 25</item>
